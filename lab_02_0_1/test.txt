@@ -1,0 +1,8 @@
+1. Input:  5 3
+   Output: 125
+   
+2. Input:  -6 5
+   Output: -7776
+   
+3. Input: 99 0
+   Output: 1
